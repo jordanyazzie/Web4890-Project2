@@ -1,10 +1,9 @@
 .box{
     width: 600px;
-    border: solid white 3px;
+    border: solid orange 3px;
     border-radius: 15px;
-    background: rgb(9,207,200);
-    background: linear-gradient(19deg, rgba(9,207,200,1) 25%, rgba(107,45,253,1) 100%);
-    color: whitesmoke;
+    background: #9a9a9a;
+    color: white;
 
 }
 .subtitle{
@@ -54,15 +53,18 @@
 }
 
 .choicebox-right{
-     border-right: solid 1.5px white;
+     border-right: solid 1.5px whitesmoke;
  }
 .choicebox-left{
-    border-left: solid 1.5px white;
+    border-left: solid 1.5px whitesmoke;
 }
 .spaceing{
 letter-spacing: 1px;
 }
-
-#09cfc8
-
-#6b2dfd
+h3{
+    border: 5px solid orange;
+    border-radius: 10px;
+    margin: auto;
+    padding: 10px;
+    width: 70%;
+}
